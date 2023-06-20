@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**iii 
  * print last digit
  * of a number
  *
@@ -14,7 +14,7 @@ int print_last_digit(int n)
 	if (l < 0)
 	{
 		_putchar(-l + 48);
-		return(-l);
+		return (-l);
 	}
 	else
 	{
